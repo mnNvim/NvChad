@@ -9,6 +9,8 @@ g.toggle_theme_icon = "   "
 o.laststatus = 3
 o.showmode = false
 
+o.list = false
+
 o.clipboard = "unnamedplus"
 o.cursorline = true
 o.cursorlineopt = "number"
